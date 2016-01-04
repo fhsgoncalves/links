@@ -8,3 +8,7 @@
 
 ## Go
  - [Golang? Not Yet](https://rule1.quora.com/Golang-Not-yet)
+ - [Why go is not good?](http://yager.io/programming/go.html)
+   - Go doesn't really do anything new. 
+   - Go isn't well-designed from the ground up. 
+   - Go is a regression from other modern programming languages. 
