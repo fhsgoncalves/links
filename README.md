@@ -2,6 +2,7 @@
 
 ## Elixir
  - [NDC 2015 - Phoenix](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
+ - [Microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
 
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
