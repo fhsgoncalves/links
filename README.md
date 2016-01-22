@@ -6,6 +6,7 @@
 
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
+ - [Immutables - Java Values](http://immutables.github.io/)
 
 ## Go
  - [Golang? Not Yet](https://rule1.quora.com/Golang-Not-yet)
