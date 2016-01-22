@@ -8,6 +8,9 @@
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
  - [Immutables - Java Values](http://immutables.github.io/)
 
+## Android
+ - [Hungarian Notation](http://jakewharton.com/just-say-no-to-hungarian-notation/)
+
 ## Go
  - [Golang? Not Yet](https://rule1.quora.com/Golang-Not-yet)
  - [Why go is not good?](http://yager.io/programming/go.html)
