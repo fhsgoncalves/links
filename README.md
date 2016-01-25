@@ -3,7 +3,8 @@
 ## Elixir
  - [NDC 2015 - Phoenix](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
  - [Microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
-
+ - Elixir is what would happen if Erlang, Clojure, and Ruby somehow had a baby and it wasn’t an accident. (source: (the excitement of elixir)[http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/])
+ 
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
  - [Immutables - Java Values](http://immutables.github.io/)
