@@ -5,6 +5,7 @@
  - [Microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
  - [the excitement of elixir](http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/)
    - Elixir is what would happen if Erlang, Clojure, and Ruby somehow had a baby and it wasn’t an accident.
+ - [Introduction to Elixir for Rubyists - ElixirConf 2014](https://www.youtube.com/watch?v=XbD1Emhm31w&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT&index=16)
  
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
