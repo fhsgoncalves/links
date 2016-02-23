@@ -10,6 +10,9 @@
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
  - [Immutables - Java Values](http://immutables.github.io/)
+ - Checked vs Unchecked Exceptions
+    - [Checked Exceptions - Google testing](http://googletesting.blogspot.com.br/2009/09/checked-exceptions-i-love-you-but-you.html)
+    - [Checked exceptions considered evil](https://medium.com/@eob/checked-exceptions-considered-evil-f7d07e051fa6#.btctx1wye)
 
 ## Android
  - [Hungarian Notation](http://jakewharton.com/just-say-no-to-hungarian-notation/)
