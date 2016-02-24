@@ -28,6 +28,7 @@
  - [Major Version - GroupId](http://jakewharton.com/java-interoperability-policy-for-major-version-updates/)
  - [Technical Debt - Martin Fowler](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
  - [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
+ - [Spotify culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
