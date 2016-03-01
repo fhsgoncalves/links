@@ -13,6 +13,7 @@
  - Checked vs Unchecked Exceptions
     - [Checked Exceptions - Google testing](http://googletesting.blogspot.com.br/2009/09/checked-exceptions-i-love-you-but-you.html)
     - [Checked exceptions considered evil](https://medium.com/@eob/checked-exceptions-considered-evil-f7d07e051fa6#.btctx1wye)
+ - [Use maven, not gradle](https://rule1.quora.com/Use-Maven-Not-Gradle)
 
 ## Android
  - [Hungarian Notation](http://jakewharton.com/just-say-no-to-hungarian-notation/)
@@ -29,6 +30,10 @@
  - [Technical Debt - Martin Fowler](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
  - [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
  - [Spotify culture](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+ - [Some rules](https://rule1.quora.com/The-Rules)
+   - Rule #1 - Comments Lie
+   - Rule #2 - The Bug is In the Assumption
+   - Rule #3 - No Magic
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
