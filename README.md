@@ -40,3 +40,6 @@
  - [Conselhos de um velho programador antissocial e ranzinza](https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.rofq6w922) -> ps: in portuguese.
  - [Activism Engineering](http://matthewbischoff.com/activist-engineering/)
  - [Uma carta aberta ao Brasil](http://markmanson.net/brazil_pt) -> ps: in portuguese.
+
+# Fun
+ - [POG](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904/26)
