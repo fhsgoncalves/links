@@ -6,6 +6,7 @@
  - [the excitement of elixir](http://devintorr.es/blog/2013/01/22/the-excitement-of-elixir/)
    - Elixir is what would happen if Erlang, Clojure, and Ruby somehow had a baby and it wasn’t an accident.
  - [Introduction to Elixir for Rubyists - ElixirConf 2014](https://www.youtube.com/watch?v=XbD1Emhm31w&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT&index=16)
+ - [Why I'm betting on Elixir](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58#.q3ddy5n32)
  
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
