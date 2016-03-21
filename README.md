@@ -40,6 +40,7 @@
    - Rule #2 - The Bug is In the Assumption
    - Rule #3 - No Magic
  - [YAGNI - You aren't gonna need it](http://martinfowler.com/bliki/Yagni.html)
+ - [Security Checklist](https://securitychecklist.org/)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
