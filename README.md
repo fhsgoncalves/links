@@ -8,6 +8,7 @@
  - [Introduction to Elixir for Rubyists - ElixirConf 2014](https://www.youtube.com/watch?v=XbD1Emhm31w&list=PLE7tQUdRKcyakbmyFcmznq2iNtL80mCsT&index=16)
  - [Why I'm betting on Elixir](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58#.q3ddy5n32)
  - [Elixir should take over the world](https://www.youtube.com/watch?v=X25xOhntr6s)
+ - [Why erlang matters](https://sameroom.io/blog/why-erlang-matters/)
  
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
@@ -19,6 +20,8 @@
     - [Checked Exceptions - Google testing](http://googletesting.blogspot.com.br/2009/09/checked-exceptions-i-love-you-but-you.html)
     - [Checked exceptions considered evil](https://medium.com/@eob/checked-exceptions-considered-evil-f7d07e051fa6#.btctx1wye)
  - [Use maven, not gradle](https://rule1.quora.com/Use-Maven-Not-Gradle)
+ - [Java annotations are evil](http://www.yegor256.com/2016/04/12/java-annotations-are-evil.html)
+ - [annotatiomania](http://www.annotatiomania.com/)
 
 ## Android
  - [Hungarian Notation](http://jakewharton.com/just-say-no-to-hungarian-notation/)
