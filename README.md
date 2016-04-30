@@ -44,12 +44,16 @@
    - Rule #3 - No Magic
  - [YAGNI - You aren't gonna need it](http://martinfowler.com/bliki/Yagni.html)
  - [Security Checklist](https://securitychecklist.org/)
+ - [Hiring is number one](http://algeri-wong.com/yishan/engineering-management-hiring.html)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
  - [Conselhos de um velho programador antissocial e ranzinza](https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.rofq6w922) -> ps: in portuguese.
  - [Activism Engineering](http://matthewbischoff.com/activist-engineering/)
  - [Uma carta aberta ao Brasil](http://markmanson.net/brazil_pt) -> ps: in portuguese.
+
+# Quotations
+ - "Never memorize something that you can look up." - Albert Einstein
 
 # Fun
  - [POG](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904/26)
