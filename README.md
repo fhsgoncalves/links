@@ -9,7 +9,10 @@
  - [Why I'm betting on Elixir](https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58#.q3ddy5n32)
  - [Elixir should take over the world](https://www.youtube.com/watch?v=X25xOhntr6s)
  - [Why erlang matters](https://sameroom.io/blog/why-erlang-matters/)
- 
+ - Learning
+   - [Behaviours vs Protocols](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/)
+   - [Behaviours](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/) 
+
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
 
