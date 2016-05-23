@@ -54,6 +54,7 @@
  - [Conselhos de um velho programador antissocial e ranzinza](https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.rofq6w922) -> ps: in portuguese.
  - [Activism Engineering](http://matthewbischoff.com/activist-engineering/)
  - [Uma carta aberta ao Brasil](http://markmanson.net/brazil_pt) -> ps: in portuguese.
+ - [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding/?utm_content=buffer8d663&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
