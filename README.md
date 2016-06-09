@@ -15,6 +15,7 @@
 
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
+ - [Rich Hickey - Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
 
 ## Java
  - [Optional by Guava](https://github.com/google/guava/wiki/UsingAndAvoidingNullExplained)
