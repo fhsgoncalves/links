@@ -50,6 +50,7 @@
  - [Security Checklist](https://securitychecklist.org/)
  - [Hiring is number one](http://algeri-wong.com/yishan/engineering-management-hiring.html)
  - [How To Give Your Team Meetings A Status Update](https://blog.trello.com/give-team-meetings-status-update/?utm_source=newsletter&utm_medium=email&utm_campaign=MayNewsletter2)
+ - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
