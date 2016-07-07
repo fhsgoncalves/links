@@ -12,6 +12,7 @@
  - Learning
    - [Behaviours vs Protocols](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/)
    - [Behaviours](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/) 
+ - [Rails to Phoenix - RailsConf 2016](https://www.youtube.com/watch?v=OxhTQdcieQE)
 
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
@@ -64,3 +65,6 @@
 
 # Fun
  - [POG](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904/26)
+
+# Tunning
+ - [Elasticsearch - Indexing performance considerations](https://www.elastic.co/blog/performance-considerations-elasticsearch-indexing)
