@@ -1,5 +1,8 @@
 # Useful Links
 
+## Functional
+ - [Its easy to write imperative code](http://staltz.com/its-easy-to-write-imperative.html)
+
 ## Elixir
  - [NDC 2015 - Phoenix](http://www.chrismccord.com/blog/2015/06/26/ndc-oslo-2015-phoenix-a-framework-for-the-modern-web/)
  - [Microservices](http://blog.plataformatec.com.br/2015/06/elixir-in-times-of-microservices/)
