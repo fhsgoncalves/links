@@ -16,6 +16,7 @@
    - [Behaviours vs Protocols](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/)
    - [Behaviours](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/) 
  - [Rails to Phoenix - RailsConf 2016](https://www.youtube.com/watch?v=OxhTQdcieQE)
+ - * [What every Node js developer needs to know about Elixir - Bryan Hunter](https://www.youtube.com/watch?v=q8wueg2hswA)
 
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
@@ -55,6 +56,7 @@
  - [Hiring is number one](http://algeri-wong.com/yishan/engineering-management-hiring.html)
  - [How To Give Your Team Meetings A Status Update](https://blog.trello.com/give-team-meetings-status-update/?utm_source=newsletter&utm_medium=email&utm_campaign=MayNewsletter2)
  - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+ - Google - Envelope Calculations + Distributed Systems [slides](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf), [article](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
