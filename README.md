@@ -17,7 +17,8 @@
    - [Behaviours](https://www.djm.org.uk/posts/elixir-behaviours-vs-protocols-what-is-the-difference/) 
  - [Rails to Phoenix - RailsConf 2016](https://www.youtube.com/watch?v=OxhTQdcieQE)
  - * [What every Node js developer needs to know about Elixir - Bryan Hunter](https://www.youtube.com/watch?v=q8wueg2hswA)
-
+ - [Many-to-many ecto](http://blog.roundingpegs.com/an-example-of-many-to-many-associations-in-ecto-and-phoenix/)
+ 
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
  - [Rich Hickey - Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
