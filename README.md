@@ -65,6 +65,7 @@
  - [Activism Engineering](http://matthewbischoff.com/activist-engineering/)
  - [Uma carta aberta ao Brasil](http://markmanson.net/brazil_pt) -> ps: in portuguese.
  - [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding/?utm_content=buffer8d663&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+ - [How to Pay Programmers Less](http://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
