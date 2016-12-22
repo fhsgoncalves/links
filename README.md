@@ -43,6 +43,9 @@
    - Go isn't well-designed from the ground up. 
    - Go is a regression from other modern programming languages. 
 
+# Javascript
+ - [How it feels to learn javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.nis46p6at)
+
 # Tech - Good practices
  - [Major Version - GroupId](http://jakewharton.com/java-interoperability-policy-for-major-version-updates/)
  - [Technical Debt - Martin Fowler](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
