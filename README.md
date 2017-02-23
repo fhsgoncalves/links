@@ -61,6 +61,7 @@
  - [How To Give Your Team Meetings A Status Update](https://blog.trello.com/give-team-meetings-status-update/?utm_source=newsletter&utm_medium=email&utm_campaign=MayNewsletter2)
  - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
  - Google - Envelope Calculations + Distributed Systems [slides](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf), [article](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
+ - [The Little Mocker - Uncle Bob](https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
