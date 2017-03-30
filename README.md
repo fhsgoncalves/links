@@ -41,7 +41,11 @@
  - [Why go is not good?](http://yager.io/programming/go.html)
    - Go doesn't really do anything new. 
    - Go isn't well-designed from the ground up. 
-   - Go is a regression from other modern programming languages. 
+   - Go is a regression from other modern programming languages.
+ - [Moving a team from Scala to Go Lang](http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/)
+   
+# Scala
+ - [Is Scala on the way out?](https://www.linkedin.com/pulse/scala-way-out-owen-rubel)
 
 # Javascript
  - [How it feels to learn javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.nis46p6at)
