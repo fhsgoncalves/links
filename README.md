@@ -78,7 +78,8 @@
  
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
-
+ - "Um bom líder é aquele que corrige sem ofender e orientar sem humilhar."
+ 
 # Fun
  - [POG](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904/26)
 
