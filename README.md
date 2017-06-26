@@ -75,6 +75,7 @@
  - [Top developers can have a life outside coding](http://www.belenalbeza.com/top-developers-can-have-a-life-outside-coding/?utm_content=buffer8d663&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
  - [How to Pay Programmers Less](http://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
  - [Nobody wants to use software](https://medium.freecodecamp.com/nobody-wants-to-use-software-a75643bee654#.uzvcfmjji)
+ - [How it feels to learn javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
  
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
