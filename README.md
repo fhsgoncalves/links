@@ -18,6 +18,7 @@
  - [Rails to Phoenix - RailsConf 2016](https://www.youtube.com/watch?v=OxhTQdcieQE)
  - * [What every Node js developer needs to know about Elixir - Bryan Hunter](https://www.youtube.com/watch?v=q8wueg2hswA)
  - [Many-to-many ecto](http://blog.roundingpegs.com/an-example-of-many-to-many-associations-in-ecto-and-phoenix/)
+ - [Bryan Hunter: Elixir by the Bellyful](https://www.youtube.com/watch?time_continue=1119&v=iswld-Rpi_g)
  
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
