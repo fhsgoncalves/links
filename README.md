@@ -69,6 +69,7 @@
  - [Agile is dead - Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
  - Google - Envelope Calculations + Distributed Systems [slides](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf), [article](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
  - [The Little Mocker - Uncle Bob](https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html)
+ - [Basic programing principles](http://www.makeuseof.com/tag/basic-programming-principles/)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
