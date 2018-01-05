@@ -21,6 +21,7 @@
  - [Bryan Hunter: Elixir by the Bellyful](https://www.youtube.com/watch?time_continue=1119&v=iswld-Rpi_g)
  - [Tips and Tricks for IEx](https://blog.echobind.com/tips-and-tricks-for-iex-161d0049cfcd)
  - [Erlang on Xen](http://zerg.erlangonxen.org/)
+ - [The Climb - Experiencing the Rise of Elixir from the Inside - Bruce Tale](https://www.youtube.com/watch?v=9lkO-kgxoiY)
  
 ## Clojure
  - [Uncle Bob - Functional programming - What? Why? When?](https://www.youtube.com/watch?v=7Zlp9rKHGD4)
