@@ -54,7 +54,7 @@
 # Javascript
  - [How it feels to learn javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.nis46p6at)
 
-# Tech - Good practices
+# Tech - Good articles
  - [Major Version - GroupId](http://jakewharton.com/java-interoperability-policy-for-major-version-updates/)
  - [Technical Debt - Martin Fowler](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
  - [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
@@ -71,6 +71,7 @@
  - Google - Envelope Calculations + Distributed Systems [slides](http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf), [article](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
  - [The Little Mocker - Uncle Bob](https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html)
  - [Basic programing principles](http://www.makeuseof.com/tag/basic-programming-principles/)
+ - [The death of microservices madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
