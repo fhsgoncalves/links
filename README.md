@@ -72,7 +72,8 @@
  - [The Little Mocker - Uncle Bob](https://8thlight.com/blog/uncle-bob/2014/05/14/TheLittleMocker.html)
  - [Basic programing principles](http://www.makeuseof.com/tag/basic-programming-principles/)
  - [The death of microservices madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
-
+ - [Modular monoliths](https://www.youtube.com/watch?v=kbKxmEeuvc4)
+ 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
  - [Conselhos de um velho programador antissocial e ranzinza](https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.rofq6w922) -> ps: in portuguese.
