@@ -86,6 +86,7 @@
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
  - "Um bom líder é aquele que corrige sem ofender e orientar sem humilhar."
+ - "I'll keep saying this ... if people can't build monoliths properly, microservices won't help." - Simon Brown.
  
 # Fun
  - [POG](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904/26)
