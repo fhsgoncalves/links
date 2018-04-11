@@ -74,6 +74,7 @@
  - [The death of microservices madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  - [Modular monoliths](https://www.youtube.com/watch?v=kbKxmEeuvc4)
  - [Microservices? Please, don't](https://dzone.com/articles/microservices-please-dont)
+ - [You're not actually building microservices](https://www.simplethread.com/youre-not-actually-building-microservices/)
  
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
