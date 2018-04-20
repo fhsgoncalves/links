@@ -92,6 +92,7 @@
  
 # Fun
  - [POG](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904/26)
+ - [What are all the Jeff Dean facts](https://www.quora.com/What-are-all-the-Jeff-Dean-facts)
 
 # Tunning
  - [Elasticsearch - Indexing performance considerations](https://www.elastic.co/blog/performance-considerations-elasticsearch-indexing)
