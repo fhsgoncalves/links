@@ -1,5 +1,8 @@
 # Useful Links
 
+## Data
+ - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
+
 ## Functional
  - [It's easy to write imperative code](http://staltz.com/its-easy-to-write-imperative.html)
 
