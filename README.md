@@ -88,6 +88,7 @@
  - [How to Pay Programmers Less](http://www.yegor256.com/2016/12/06/how-to-pay-programmers-less.html)
  - [Nobody wants to use software](https://medium.freecodecamp.com/nobody-wants-to-use-software-a75643bee654#.uzvcfmjji)
  - [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+ - [Trouble hiring](https://hiringengineersbook.com/post/trouble-hiring/)
  
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
