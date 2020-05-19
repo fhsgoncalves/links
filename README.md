@@ -79,6 +79,7 @@
  - [Microservices? Please, don't](https://dzone.com/articles/microservices-please-dont)
  - [You're not actually building microservices](https://www.simplethread.com/youre-not-actually-building-microservices/)
  - [Say NO to venn diagrams when explaining joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
+ - [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
  
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
