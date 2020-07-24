@@ -82,6 +82,7 @@
  - [Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
  - [Ship small - GitHub](https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9)
  - [Why software architects fail](https://youtu.be/AkYDsiRVqno)
+ - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
  
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
