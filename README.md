@@ -57,6 +57,10 @@
 # Javascript
  - [How it feels to learn javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.nis46p6at)
 
+# Rust
+  - [A Language for the Next 40 Years](https://www.youtube.com/watch?v=A3AdN7U24iU)
+  - [How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!](https://www.youtube.com/watch?v=GCsxYAxw3JQ&amp)
+  
 # Tech - Good articles
  - [Major Version - GroupId](http://jakewharton.com/java-interoperability-policy-for-major-version-updates/)
  - [Technical Debt - Martin Fowler](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html)
@@ -83,6 +87,7 @@
  - [Ship small - GitHub](https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9)
  - [Why software architects fail](https://youtu.be/AkYDsiRVqno)
  - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+ - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
  
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
