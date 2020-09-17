@@ -88,7 +88,7 @@
  - [Why software architects fail](https://youtu.be/AkYDsiRVqno)
  - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
  - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
- 
+
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
  - [Conselhos de um velho programador antissocial e ranzinza](https://medium.com/brasil/conselhos-de-um-velho-programador-antissocial-e-ranzinza-3b32f7ba4561#.rofq6w922) -> ps: in portuguese.
@@ -100,6 +100,7 @@
  - [The Guerrilla Guide to Interviewing](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
  - [Trouble hiring](https://hiringengineersbook.com/post/trouble-hiring/)
  - [The end of dynamic language](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
+ - [You are not google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
  
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
