@@ -103,6 +103,7 @@
  - [The end of dynamic language](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
  - [You are not google](https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb)
  - [Shiny Object Syndrome](https://personalexcellence.co/blog/shiny-object-syndrome/)
+ - [Cheaper Talent Hypothesis - Martin Fowler](https://martinfowler.com/bliki/CheaperTalentHypothesis.html)
  
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
