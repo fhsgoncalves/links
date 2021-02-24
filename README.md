@@ -56,6 +56,7 @@
 
 # Javascript
  - [How it feels to learn javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.nis46p6at)
+ - [Front end performance checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 
 # Rust
   - [A Language for the Next 40 Years](https://www.youtube.com/watch?v=A3AdN7U24iU)
