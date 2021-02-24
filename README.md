@@ -106,7 +106,8 @@
  - [Shiny Object Syndrome](https://personalexcellence.co/blog/shiny-object-syndrome/)
  - [Cheaper Talent Hypothesis - Martin Fowler](https://martinfowler.com/bliki/CheaperTalentHypothesis.html)
  - [How timeboxing works and why it will make you more productive](https://hbr.org/2018/12/how-timeboxing-works-and-why-it-will-make-you-more-productive)
- 
+ - [The value of canonicity - NuBank](https://building.nubank.com.br/the-value-of-canonicity/)
+
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
  - "Um bom líder é aquele que corrige sem ofender e orientar sem humilhar."
