@@ -109,6 +109,7 @@
  - [How timeboxing works and why it will make you more productive](https://hbr.org/2018/12/how-timeboxing-works-and-why-it-will-make-you-more-productive)
  - [The value of canonicity - NuBank](https://building.nubank.com.br/the-value-of-canonicity/)
  - [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
+ - [The curse of the gifted](https://lwn.net/2000/0824/a/esr-sharing.php3)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
