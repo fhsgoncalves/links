@@ -111,6 +111,7 @@
  - [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
  - [The curse of the gifted](https://lwn.net/2000/0824/a/esr-sharing.php3)
  - [Implementers, Solvers and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
+ - [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
