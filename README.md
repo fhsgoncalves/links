@@ -113,6 +113,7 @@
  - [Implementers, Solvers and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
  - [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
  - [Execution at Facebook - PMs](https://productlife.to/p/-execution-at-facebook)
+ - [A case against platform teams](https://kislayverma.com/organizations/a-case-against-platform-teams/)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
