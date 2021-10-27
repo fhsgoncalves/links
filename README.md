@@ -1,4 +1,4 @@
-# Useful Links
+# Useful references
 
 ## Data
  - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
@@ -115,6 +115,7 @@
  - [Execution at Facebook - PMs](https://productlife.to/p/-execution-at-facebook)
  - [A case against platform teams](https://kislayverma.com/organizations/a-case-against-platform-teams/)
  - [Being glue - Principal Software Engineer](https://noidea.dog/glue)
+ - [slime-mold organization](https://komoroske.com/slime-mold/)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
