@@ -118,6 +118,7 @@
  - [slime-mold organization](https://komoroske.com/slime-mold/)
  - [Traits of software elite performing teams](https://itnext.io/traits-of-software-elite-performing-teams-11c84f55d054)
  - [Why experts make bad teachers](https://cscalfani.medium.com/why-experts-make-bad-teachers-ccaed2df029b)
+ - [How great leaders inspire action | Simon Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
