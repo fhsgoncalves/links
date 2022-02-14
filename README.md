@@ -120,6 +120,9 @@
  - [Why experts make bad teachers](https://cscalfani.medium.com/why-experts-make-bad-teachers-ccaed2df029b)
  - [How great leaders inspire action | Simon Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 
+# Web3 & crypto
+ - [Web3 first impressions](https://moxie.org/2022/01/07/web3-first-impressions.html)
+
 # Quotations
  - "Never memorize something that you can look up." - Albert Einstein
  - "Um bom líder é aquele que corrige sem ofender e orientar sem humilhar."
