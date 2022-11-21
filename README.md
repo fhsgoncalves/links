@@ -122,6 +122,9 @@
  - [How great leaders inspire action | Simon Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
  - [Magnitudes of exploration.](https://lethain.com/magnitudes-of-exploration/)
 
+# Learning
+ - [roadmap.sh](https://roadmap.sh/)
+
 # Web3 & crypto
  - [Web3 first impressions](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
