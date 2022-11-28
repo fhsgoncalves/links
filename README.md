@@ -92,6 +92,7 @@
  - [Ideology](https://www.destroyallsoftware.com/talks/ideology)
  - [Most Leaders Don't Even Know the Game They're In | Simon Sinek](https://www.youtube.com/watch?v=RyTQ5-SQYTo)
  - [CUPID for joyful coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
+ - [Google cloud: devops tech architecture](https://cloud.google.com/architecture/devops/devops-tech-architecture)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
