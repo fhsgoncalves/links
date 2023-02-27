@@ -94,6 +94,7 @@
  - [CUPID for joyful coding](https://dannorth.net/2022/02/10/cupid-for-joyful-coding/)
  - [Google cloud: devops tech architecture](https://cloud.google.com/architecture/devops/devops-tech-architecture)
  - [Clean Event-Drive Architecture](https://valerii-udodov.com/posts/event-sourcing/clean-event-driven-architecture/)
+ - [Distributed transaction patterns for microservices compared](https://developers.redhat.com/articles/2021/09/21/distributed-transaction-patterns-microservices-compared#choreography)
 
 # Philosophical
  - [Say No - Product Strategy](http://www.productstrategymeanssayingno.com/)
