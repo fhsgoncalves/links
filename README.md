@@ -125,6 +125,7 @@
  - [How great leaders inspire action | Simon Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
  - [Magnitudes of exploration.](https://lethain.com/magnitudes-of-exploration/)
  - [https://taylor.town/-10x](How to be a -10x Engineer)
+ - [Why we don't use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
 
 # Learning
  - [roadmap.sh](https://roadmap.sh/)
