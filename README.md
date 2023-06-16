@@ -124,8 +124,9 @@
  - [Why experts make bad teachers](https://cscalfani.medium.com/why-experts-make-bad-teachers-ccaed2df029b)
  - [How great leaders inspire action | Simon Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
  - [Magnitudes of exploration.](https://lethain.com/magnitudes-of-exploration/)
- - [https://taylor.town/-10x](How to be a -10x Engineer)
+ - [How to be a -10x Engineer](https://taylor.town/-10x)
  - [Why we don't use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
+ - [I test in prod](https://increment.com/testing/i-test-in-production/)
 
 # Learning
  - [roadmap.sh](https://roadmap.sh/)
