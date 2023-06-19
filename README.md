@@ -127,6 +127,7 @@
  - [How to be a -10x Engineer](https://taylor.town/-10x)
  - [Why we don't use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
  - [I test in prod](https://increment.com/testing/i-test-in-production/)
+ - [Double-entry accounting for programmers](https://www.balanced.software/double-entry-bookkeeping-for-programmers/)
 
 # Learning
  - [roadmap.sh](https://roadmap.sh/)
