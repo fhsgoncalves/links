@@ -61,6 +61,7 @@
 # Rust
   - [A Language for the Next 40 Years](https://www.youtube.com/watch?v=A3AdN7U24iU)
   - [How I Convinced the World's Largest Package Manager to Use Rust, and So Can You!](https://www.youtube.com/watch?v=GCsxYAxw3JQ&amp)
+  - [Considering rust](https://youtu.be/DnT-LUQgc7s)
   
 # Tech - Good articles
  - [Major Version - GroupId](http://jakewharton.com/java-interoperability-policy-for-major-version-updates/)
