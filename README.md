@@ -129,6 +129,7 @@
  - [Why we don't use a staging environment](https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment)
  - [I test in prod](https://increment.com/testing/i-test-in-production/)
  - [Double-entry accounting for programmers](https://www.balanced.software/double-entry-bookkeeping-for-programmers/)
+ - [Single threaded model - amazon](https://pedrodelgallego.github.io/blog/amazon/single-threaded-model/)
 
 # Learning
  - [roadmap.sh](https://roadmap.sh/)
