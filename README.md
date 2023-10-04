@@ -130,6 +130,7 @@
  - [I test in prod](https://increment.com/testing/i-test-in-production/)
  - [Double-entry accounting for programmers](https://www.balanced.software/double-entry-bookkeeping-for-programmers/)
  - [Single threaded model - amazon](https://pedrodelgallego.github.io/blog/amazon/single-threaded-model/)
+ - [Strong static typing, a hill I'm willing to die on...](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
 
 # Learning
  - [roadmap.sh](https://roadmap.sh/)
