@@ -1,5 +1,8 @@
 # Useful references
 
+## AI
+- [ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks)
+
 ## Data
  - [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 
