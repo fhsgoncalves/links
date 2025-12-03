@@ -135,6 +135,7 @@
  - [Single threaded model - amazon](https://pedrodelgallego.github.io/blog/amazon/single-threaded-model/)
  - [Strong static typing, a hill I'm willing to die on...](https://www.svix.com/blog/strong-typing-hill-to-die-on/)
  - [Users Only Care About 20% of Your Application](https://idiallo.com/blog/users-only-care-about-20-percent)
+ - [Nobody Writes Clean Code. We All Just Pretend](https://dev.to/sylwia-lask/nobody-writes-clean-code-we-all-just-pretend-11d1)
 
 # Learning
  - [roadmap.sh](https://roadmap.sh/)
